@@ -1,0 +1,42 @@
+h1{
+    color: white;
+    background-color: rgba(5, 5, 220, 0.7);
+    border-radius: 25px;
+    text-align: center;
+    border-style: dashed;
+    margin-top: 300px;
+   
+}
+
+body{
+    background-color: rgb(14, 14, 14);
+}
+
+#haan{
+    color: rgb(221, 222, 222);
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 8px ;
+    margin-left: 320px;
+    border-style: solid;
+    border-color: azure;
+}
+
+a:link{
+    color: rgb(233, 241, 241);
+    text-decoration: none;
+}
+
+a:visited{
+    color:rgb(239, 242, 244);
+    text-decoration: none;
+}
+
+a:hover{
+    color:aqua;
+}
+
+a:active{
+    color:rgba(0, 255, 42, 0.836);
+}
